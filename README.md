@@ -1,6 +1,6 @@
 # Teste Backend | SevenApps
 ​
-O seu desafio será criar um **Backend** básico para uma aplicação ToDo. Neste Backend será possível inserir novas tarefas, modificar existentes e apagar tarefas. Será necessário também fornecer um endpoint para filtrar as tarefas que já foram e não foram finalizadas. A arquitetura deste projeto bem como frameworks que venha a usar fica a seu critério. O projeto pode usar SQLite para ser mais **simples**.
+O seu desafio será criar um **Backend** básico para uma aplicação ToDo. Neste Backend será possível inserir novas tarefas, modificar existentes e apagar tarefas. Será necessário também fornecer um endpoint para filtrar as tarefas que já foram e não foram finalizadas. A arquitetura deste projeto bem como frameworks que venha a usar fica a seu critério. 
 ​
 ### Requisitos principais:
 - Endpoint para criar um usuário.
